@@ -22,6 +22,7 @@ namespace ShopWindow
         public MainWindow()
         {
             InitializeComponent();
+            // coment
         }
     }
 }
