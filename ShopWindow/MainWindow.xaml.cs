@@ -23,6 +23,7 @@ namespace ShopWindow
         {
             InitializeComponent();
             // coment
+            // cwcwcw
         }
     }
 }
