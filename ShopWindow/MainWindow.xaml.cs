@@ -24,6 +24,7 @@ namespace ShopWindow
             InitializeComponent();
             // coment
             // cwcwcw
+            // 0.0.4
         }
     }
 }
